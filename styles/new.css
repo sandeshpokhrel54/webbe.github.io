@@ -1,0 +1,31 @@
+html
+{
+    font-size: 20px;
+    font-family: 'Sen', sans-serif;
+    background-color: #11457f;
+}
+h1{
+    font-size: 26px;
+    text-align: center;
+    color: red;
+    padding: 0px 20px;
+    margin: 0;
+}
+
+body {  
+    width: 600px;
+    background-color: black;
+    padding: 20px 50px 40px 20px;
+    border: 5px solid beige;
+    margin: 2em 0px 2em 15em;
+}
+
+audio{
+    margin-top: 3em;
+    margin-left: 3em;
+}
+
+img {
+    display: block;
+    margin: auto;
+  }
